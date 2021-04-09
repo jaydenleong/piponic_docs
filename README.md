@@ -10,12 +10,6 @@ Our work contributes a low-cost, open-source hardware design, and IoT developmen
 
 Our system can also operate on battery power in the event of a power-outage, a critical failure in aquaponic systems. This feature allows growers to be notified and to begin to take corrective action within the minute of the outage.
 
-## System Overview
-
-As you can see, the sensing and control system is attached to the aquaponic/hydroponic installation. Then, users can monitor an control their system remotely.
-
-<img src="img/systemOverview.png" alt="drawing" width=""/>
-
 ## This Repository
 
 Contains key documents describing our project. This includes the following (in the `docs/` folder): 
@@ -29,6 +23,8 @@ Contains key documents describing our project. This includes the following (in t
 Please consult those documents for more information about the project.
 
 ## Related Repositories
+
+<img src="img/systemOverview.png" alt="drawing" width="600"/>
 
 - [piponic](https://github.com/jaydenleong/piponic): A sensing and control system for aquaponics or hydroponics. Runs on a Raspberry Pi and connects to the mobile application using this repository.
 - [piponic_cloud](https://github.com/jaydenleong/piponic_cloud): Google Firebase functions that connect Raspberry Pis and the mobile application.
