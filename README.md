@@ -22,6 +22,12 @@ Contains key documents describing our project. This includes the following (in t
 
 Please consult those documents for more information about the project.
 
+It also contains hardware modelling files, including: 
+- Solidworks 2019 enclosure models (for layout)
+- Altium Designer 2019 PCB and associated schematic files
+- Gerber files associated with PCB design
+- Bill of materials for PCB components
+
 ## Related Repositories
 
 <img src="img/systemOverview.png" alt="drawing" width="600"/>

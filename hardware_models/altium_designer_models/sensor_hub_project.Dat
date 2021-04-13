@@ -1,0 +1,21 @@
+﻿Field=#~Integer~#~50|Field=Comment~String~Comment~100|Field=Description~String~Description~100|Field=Designator~String~Designator~100|Field=Footprint~String~Footprint~100|Field=LibRef~String~LibRef~100|Field=Quantity~Integer~Quantity~100|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~sensor_hub_project.PrjPCB|ReportField=ProjectFullPath~C:\Users\carso\Documents\1.School\4th_year\capstone\aquaponics_hub\sensors\sensor_design\sensor_hub_project.PrjPCB|ReportField=Title~Bill of Materials For Project [sensor_hub_project.PrjPCB] (No PCB Document Selected)|ReportField=ReportTime~8:45:26 PM|ReportField=ReportDate~2021-03-18|ReportField=ReportDateTime~2021-03-18 8:45:26 PM|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=TotalQuantity~32|ReportField=TotalActualPrice~0|ReportField=TotalTargetPrice~0|ReportField=VersionControl_RevNumber~|ReportField=VersionControl_ProjFolderRevNumber~06ad465e07e0a6ab90d30008fabec7406b2ab50d|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=Application_BuildNumber~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=CurrentDate~2021-03-18|ReportField=CurrentTime~1:15:30 PM|ReportField=Date~|ReportField=DocumentFullPathAndName~C:\Users\carso\Documents\1.School\4th_year\capstone\aquaponics_hub\sensors\sensor_design\water_quality_sensor_hub.SchDoc|ReportField=DocumentName~water_quality_sensor_hub.SchDoc|ReportField=DocumentNumber~|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=ImagePath~|ReportField=ModifiedDate~2021-03-18|ReportField=Organization~|ReportField=ProjectName~sensor_hub_project.PrjPCB|ReportField=Revision~|ReportField=Rule~|ReportField=SheetNumber~|ReportField=SheetTotal~|ReportField=Time~|ReportField=Title~|ReportField=DataSourceFileName~sensor_hub_project.PrjPCB|ReportField=DataSourceFullPath~C:\Users\carso\Documents\1.School\4th_year\capstone\aquaponics_hub\sensors\sensor_design\sensor_hub_project.PrjPCB|ReportField=PCBConfigurationName~Sources|ReportField=Item~|ReportField=ItemRevision~|ReportField=ItemAndRevision~|ReportField=ItemRevisionBase~|ReportField=ItemRevisionLevel1~|ReportField=ItemRevisionLevel2~|ReportField=ItemRevisionLevel1AndBase~|ReportField=ItemRevisionLevel2AndLevel1~
+1|Header 2|Power 12V in|12V_in|2_channel_terminal_block|Header 2|1
+2|3V3|Header, 3-Pin|A1_0, A1_1, A1_2, A1_3|3_channel_terminal_block|Header 3|4
+3|ADS1*15|Header, 10-Pin|ADC_1_ADC_0, ADC_1_ADC_1|HDR1X10|Header 10|2
+4|Battery|2AA batteries|Bat|BAT-2|Battery|1
+5|Header 4|Header, 4-Pin|Boost_0, Boost_1|HDR1X4|Header 4|2
+6|Cap|Capacitor|C1|RAD-0.3|Cap|1
+7|STPS5L60|Power Schottky rectifier, 60 V, 5 A, 2-Pin DO-201AD, RoHS, Cut Tape|D1|STM-DO-201AD|CMP-2000-05365-1|1
+8|Leak Sensor|Header, 3-Pin|Leak_Enclosure_leak_detector, Leak_Leak Detector|3_channel_terminal_block|Header 3|2
+9|Header 20X2|GPIO shield for RPi|P12|HDR2X20|Header 20X2|1
+10|pH Sensor|Header, 4-Pin|pH|4_channel_terminal_block|Header 4|1
+11|2N3904|NPN General Purpose Amplifier|Q1|TO-92A|2N3904|1
+12|Res1|Resistor|R1, R2, R3, R4, R6, R7|AXIAL-0.3|Res1|6
+13||Pull up|R5|AXIAL-0.3|Res1|1
+14|Relay Header|Relay Control|Relays|4_channel_terminal_block|Header 4|1
+15|RPi Power|Power Pins|RPi Vin|HDR1X2|Header 2|1
+16|Temp Sensor|Header, 3-Pin|Temp|HDR1X3|Header 3|1
+17|5V|Header, 2-Pin|V0+ -, V1+ -|2_channel_terminal_block|Header 2|2
+18|Volt Reg|Voltage Regulator|VR1|D2PAK_N|Volt Reg|1
+19|Volt Reg|Voltage Regulator|VR2|D2PAK_M|Volt Reg|1
+20|WL Sensor|Header, 3-Pin|Water_level|3_channel_terminal_block|Header 3|1
