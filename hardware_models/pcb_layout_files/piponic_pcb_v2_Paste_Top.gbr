@@ -1,0 +1,20 @@
+%TF.GenerationSoftware,Altium Limited,Altium Designer,18.1.11 (251)*%
+G04 Layer_Color=8421504*
+%FSLAX45Y45*%
+%MOMM*%
+%TF.FileFunction,Paste,Top*%
+%TF.Part,Single*%
+G01*
+G75*
+%TA.AperFunction,NonConductor*%
+%ADD44C,0.25400*%
+D44*
+X730250Y82550D02*
+X749300Y101600D01*
+X7632700D01*
+Y6413500D01*
+X711200D01*
+Y101600D01*
+X730250Y82550D01*
+%TF.MD5,424e5ee68039a8527f5cba488c36b323*%
+M02*
